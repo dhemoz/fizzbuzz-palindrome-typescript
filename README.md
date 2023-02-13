@@ -5,7 +5,7 @@ TypeScript adalah bahasa pemrograman open source yang dibangun di atas JavaScrip
 
 Anda harus mengkompilasi TypeScript ke dalam plain JavaScript yang dapat dimengerti oleh browser agar dapat menjalankannya.
 
-Command : tsc <namafile>.ts
+Command : tsc [namafile].ts
 
 **Fizzbuzz**
 
