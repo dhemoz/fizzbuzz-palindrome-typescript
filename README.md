@@ -1,6 +1,7 @@
 # Fizzbuzz & Palindrome Typescript
 
 **Typescript**
+
 TypeScript adalah bahasa pemrograman open source yang dibangun di atas JavaScript dengan tambahan beberapa sintaks untuk type system atau mengatur tipe data pada JavaScript. Semua kode JavaScript valid yang Anda tulis juga merupakan kode TypeScript yang valid. Namun, dengan TypeScript, Anda bisa menggunakan pengetikan statis dan fitur-fitur terbaru yang bisa dikompilasi ke plain JavaScript, yang didukung oleh semua browser. TypeScript ditujukan untuk memecahkan masalah membuat JavaScript dapat diskalakan, dan itu melakukan pekerjaan yang cukup baik.
 
 Anda harus mengkompilasi TypeScript ke dalam plain JavaScript yang dapat dimengerti oleh browser agar dapat menjalankannya.
